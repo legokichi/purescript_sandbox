@@ -1,7 +1,5 @@
-.*
-!/.bowerrc
-!/.gitignore
-/output/
-/node_modules/
 /bower_components/
-/tmp/
+/node_modules/
+/output/
+/.psci*
+/src/.webpack.js
